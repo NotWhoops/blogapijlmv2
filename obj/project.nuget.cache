@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WiYfSs9OWXo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 1\\blogapijlmv2\\blogapijlmv2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmdva\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\bmdva\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
