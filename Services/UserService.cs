@@ -7,6 +7,7 @@ namespace blogapijlmv2.Services
 {
     public class UserService
     {
+        private readonly Context _context
         
     }
 }
