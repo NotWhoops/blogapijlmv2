@@ -5,13 +5,12 @@ using System.Threading.Tasks;
 using blogapijlmv2.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace blogapijlmv2.Properties.Services.Context
+namespace blogapibvh2.Services.Context
 {
-
-public class Context : DbContext
+public class DataContext : DbContext
 {
         
-public Context(DbContextOptions options) : base(options)
+public DataContext(DbContextOptions options) : base(options)
 {
     
 }
@@ -20,5 +19,5 @@ public DbSet<UserModel> UserInfo {get; set;}
 public DbSet<BlogItemModel> BlogInfo {get; set;}
 
 
-}
+    }
 }

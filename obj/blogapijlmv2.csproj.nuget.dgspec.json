@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 1\\blogapibvh2\\blogapijlmv2.csproj": {}
+    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 2\\blogapibvh2\\blogapijlmv2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 1\\blogapibvh2\\blogapijlmv2.csproj": {
+    "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 2\\blogapibvh2\\blogapijlmv2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 1\\blogapibvh2\\blogapijlmv2.csproj",
+        "projectUniqueName": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 2\\blogapibvh2\\blogapijlmv2.csproj",
         "projectName": "blogapijlmv2",
-        "projectPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 1\\blogapibvh2\\blogapijlmv2.csproj",
+        "projectPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 2\\blogapibvh2\\blogapijlmv2.csproj",
         "packagesPath": "C:\\Users\\bmdva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 1\\blogapibvh2\\obj\\",
+        "outputPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 3\\Week 2\\blogapibvh2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bmdva\\AppData\\Roaming\\NuGet\\NuGet.Config"
