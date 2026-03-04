@@ -7,6 +7,7 @@ namespace blogapijlmv2.Models.DTO
 {
     public class PasswordDTO
     {
-        
+        public string Salt { get; set; }
+        public string Hash { get; set; }
     }
 }
